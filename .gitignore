@@ -129,3 +129,7 @@ cython_debug/
 # https://python-poetry.org/docs/basic-usage/#poetry-and-version-control
 poetry.lock
 .poetry/
+
+
+#output
+output/
